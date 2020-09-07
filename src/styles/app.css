@@ -405,8 +405,6 @@ main section.banner h2 {
 main section.banner a.btn {
   color: #f25f3a;
   background-color: white;
-  -webkit-box-shadow: 0 10px 20px rgba(199, 199, 199, 0.5);
-          box-shadow: 0 10px 20px rgba(199, 199, 199, 0.5);
   margin: 0;
   z-index: 2;
   margin-top: 30px;
