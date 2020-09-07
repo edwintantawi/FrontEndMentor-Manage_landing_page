@@ -326,6 +326,16 @@ footer {
     li {
       margin-bottom: 12px;
 
+      a {
+        color: white;
+        transition: .2s;
+
+        &:hover {
+          color: #c7c7c7;
+          text-decoration: none;
+        }
+      }
+
     }
 
     &:last-child {

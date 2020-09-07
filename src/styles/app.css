@@ -464,6 +464,17 @@ footer ul li {
   margin-bottom: 12px;
 }
 
+footer ul li a {
+  color: white;
+  -webkit-transition: .2s;
+  transition: .2s;
+}
+
+footer ul li a:hover {
+  color: #c7c7c7;
+  text-decoration: none;
+}
+
 footer ul:last-child {
   margin: 0;
   padding: 0 0px 0 0;
